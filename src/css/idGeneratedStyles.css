@@ -1,0 +1,84 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.Basic-Graphics-Frame {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+#_idContainer000 {
+	height:100.00%;
+	left:0%;
+	position:absolute;
+	top:0%;
+	width:100.00%;
+	z-index:0;
+}
+#_idContainer001 {
+	height:1.25%;
+	left:7.61%;
+	position:absolute;
+	top:87.21%;
+	width:84.77%;
+	z-index:1;
+}
+#_idContainer002 {
+	height:1.25%;
+	left:7.61%;
+	position:absolute;
+	top:88.88%;
+	width:84.77%;
+	z-index:3;
+}
+#_idContainer003 {
+	height:1.25%;
+	left:7.61%;
+	position:absolute;
+	top:90.55%;
+	width:84.77%;
+	z-index:2;
+}
+#_idContainer004 {
+	height:1.25%;
+	left:7.61%;
+	position:absolute;
+	top:92.22%;
+	width:84.77%;
+	z-index:4;
+}
+#_idContainer005 {
+	height:1.25%;
+	left:7.61%;
+	position:absolute;
+	top:93.89%;
+	width:84.77%;
+	z-index:5;
+}
+#_idContainer006 {
+	display:inline-block;
+	padding:701.02% 0% 0% 0%;
+	position:relative;
+	width:100.00%;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-2 {
+	background-color:#ee7f00;
+	border-radius: 90px;
+    opacity: 0.01;
+	border-width:0px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
